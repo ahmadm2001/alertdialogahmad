@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     Button btn1, btn2, btn3, btn4, btn5;
     AlertDialog.Builder adb;
     LinearLayout l1;
+    
     Random rnd = new Random();
     int R1,G1,B1;
     Intent intent;
